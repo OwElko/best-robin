@@ -70,7 +70,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: 'The #1 Streams Provider HD,HQ,4K VODS & Live Channels'
       keyName: property
     - name: 'og:description'
       value: >-
