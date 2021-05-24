@@ -73,7 +73,9 @@ seo:
       value: Planty Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: >-
+        best IPTV Services Provider,iptv cheap,iptv price,iptv instant,Offer
+        iptv premium Subscriptions and IPTV Reseller Panel at best prices.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/concept-watching-tv.jpg
