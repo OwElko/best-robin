@@ -88,7 +88,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Planty theme
     - name: 'twitter:image'
-      value: images/header.jpg
+      value: /_static/app-assets/thoughtful-sun.jpg
       relativeUrl: true
 template: home
 ---
