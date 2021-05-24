@@ -64,7 +64,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: 'The #1 Streams Provider HD,HQ,4K VODS & Live Channels'
-  description: The preview of the Planty theme
+  description: Watch Legal Live Streams From Any Device
   extra:
     - name: 'og:type'
       value: website
