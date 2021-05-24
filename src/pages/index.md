@@ -86,7 +86,9 @@ seo:
     - name: 'twitter:title'
       value: 'The #1 Streams Provider HD,HQ,4K VODS & Live Channels'
     - name: 'twitter:description'
-      value: The preview of the Planty theme
+      value: >-
+        best IPTV Services Provider,iptv cheap,iptv price,iptv instant,Offer
+        iptv premium Subscriptions and IPTV Reseller Panel at best prices.
     - name: 'twitter:image'
       value: /_static/app-assets/thoughtful-sun.jpg
       relativeUrl: true
