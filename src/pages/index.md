@@ -63,7 +63,7 @@ sections:
       arrow: true
 seo:
   type: stackbit_page_meta
-  title: Planty Theme
+  title: 'The #1 Streams Provider HD,HQ,4K VODS & Live Channels'
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
